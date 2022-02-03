@@ -35,7 +35,7 @@ namespace mvc_dany.Controllers
             */
 
             // ejercicio 3 consulta con 2 tablas ***************************
-            // eres una perrita coketa!!!
+            
             var oLista = (from p in oPer
                           join c in oCur on p.codigo equals c.codigo
                           select new PersonaConsulta
