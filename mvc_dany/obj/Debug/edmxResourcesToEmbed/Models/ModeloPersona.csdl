@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PersonaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="curso">
+    <Key>
+      <PropertyRef Name="codigo_curso" />
+    </Key>
+    <Property Name="codigo_curso" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="codigo" Type="Int32" Nullable="false" />
+    <Property Name="descripcion" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="ciclo" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="tipo" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="persona">
+    <Key>
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="codigo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="apellido" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="fechaNac" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="PersonaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="curso" EntityType="Self.curso" />
+    <EntitySet Name="persona" EntityType="Self.persona" />
+  </EntityContainer>
+</Schema>

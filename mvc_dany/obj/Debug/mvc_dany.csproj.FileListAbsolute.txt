@@ -1,0 +1,74 @@
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\roslyn\csc.exe
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\roslyn\System.Collections.Immutable.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\roslyn\System.Reflection.Metadata.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\roslyn\vbc.exe
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\roslyn\VBCSCompiler.exe
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\roslyn\VBCSCompiler.exe.config
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\mvc_dany.dll.config
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\mvc_dany.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\mvc_dany.pdb
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\EntityFramework.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\EntityFramework.SqlServer.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\Microsoft.Web.Infrastructure.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\System.Web.Helpers.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\System.Web.Mvc.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\System.Web.Razor.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\System.Web.Webpages.Deployment.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\System.Web.Webpages.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\System.Web.Webpages.Razor.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\EntityFramework.xml
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\EntityFramework.SqlServer.xml
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\System.Web.Razor.xml
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\System.Web.Webpages.xml
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\System.Web.Webpages.Deployment.xml
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\System.Web.Webpages.Razor.xml
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\System.Web.Helpers.xml
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\bin\System.Web.Mvc.xml
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\obj\Debug\mvc_dany.csprojResolveAssemblyReference.cache
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\obj\Debug\mvc_dany.dll
+d:\mis docs\visual studio 2015\Projects\mvc_dany\mvc_dany\obj\Debug\mvc_dany.pdb
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\roslyn\csc.exe
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\roslyn\System.Collections.Immutable.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\roslyn\System.Reflection.Metadata.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\roslyn\vbc.exe
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\roslyn\VBCSCompiler.exe
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\roslyn\VBCSCompiler.exe.config
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\mvc_dany.dll.config
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\mvc_dany.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\mvc_dany.pdb
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\EntityFramework.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\EntityFramework.SqlServer.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\Microsoft.Web.Infrastructure.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\System.Web.Helpers.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\System.Web.Mvc.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\System.Web.Razor.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\System.Web.Webpages.Deployment.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\System.Web.Webpages.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\System.Web.Webpages.Razor.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\EntityFramework.xml
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\EntityFramework.SqlServer.xml
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\System.Web.Razor.xml
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\System.Web.Webpages.xml
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\System.Web.Webpages.Deployment.xml
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\System.Web.Webpages.Razor.xml
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\System.Web.Helpers.xml
+C:\Proyectos_Locales\mvc_dany\mvc_dany\bin\System.Web.Mvc.xml
+C:\Proyectos_Locales\mvc_dany\mvc_dany\obj\Debug\mvc_dany.csprojResolveAssemblyReference.cache
+C:\Proyectos_Locales\mvc_dany\mvc_dany\obj\Debug\mvc_dany.dll
+C:\Proyectos_Locales\mvc_dany\mvc_dany\obj\Debug\mvc_dany.pdb

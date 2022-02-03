@@ -1,0 +1,47 @@
+﻿@using mvc_dany.Models.modelos;
+@model List<PersonaConsulta>
+@{
+    ViewBag.Title = "Index";
+    //Layout = "";
+}
+
+<h2>Persona</h2>
+
+<div class="row">
+    <div class="col-md-8">
+        <table class="table">
+            <thead class="text-danger">
+                <tr>
+                    <th>Código</th>
+                    <th>Nombre</th>
+                    <th>Curso</th>
+                    <th>Tipo</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @* ejercicio 1 ******************
+                        @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>@item</td>
+                    </tr>
+                    }*@
+
+                @* ejercicio 2 ****************** *@
+                @foreach (var item in Model)
+            {
+                    <tr>
+                        <td>@item.Codigo</td>
+                        <td>@item.Nombre</td>
+                        <td>@item.Curso</td>
+                        <td>@item.Tipo</td>
+                    </tr>
+                }
+            </tbody>
+
+
+        </table>
+    </div>
+    </div>
+
