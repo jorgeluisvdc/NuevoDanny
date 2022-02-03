@@ -35,16 +35,16 @@ namespace mvc_dany.Controllers
             */
 
             // ejercicio 3 consulta con 2 tablas ***************************
-            //var oLista = (from p in oPer
-            //              join c in oCur on p.codigo equals c.codigo
-            //              select new PersonaConsulta
-            //              {
-            //                  Codigo = p.codigo,
-            //                  Nombre = p.nombre + " " + p.apellido,
-            //                  Curso = c.descripcion,
-            //                  Tipo = c.tipo,
-            //              }
-            //              ).ToList();
+            var oLista = (from p in oPer
+                          join c in oCur on p.codigo equals c.codigo
+                          select new PersonaConsulta
+                          {
+                              Codigo = p.codigo,
+                              Nombre = p.nombre + " " + p.apellido,
+                              Curso = c.descripcion,
+                              Tipo = c.tipo,
+                          }
+                          ).ToList();
 
             return View(oLista);
         }
