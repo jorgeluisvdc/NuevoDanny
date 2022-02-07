@@ -35,7 +35,7 @@ namespace mvc_dany.Controllers
             */
 
             // ejercicio 3 consulta con 2 tablas ***************************
-            
+
             //var oLista = (from p in oPer
             //              join c in oCur on p.codigo equals c.codigo
             //              select new PersonaConsulta
@@ -46,9 +46,10 @@ namespace mvc_dany.Controllers
             //                  Tipo = c.tipo,
             //              }
             //              ).ToList();
-            
+
 
             // cambio 06/02/2022 <=========================
+            // cambio chupala <=========================
 
             return View(oLista);
         }
